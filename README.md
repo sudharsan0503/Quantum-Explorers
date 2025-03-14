@@ -73,15 +73,5 @@ Ensure you have the following installed:
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
-## 📬 Contact & Community
-- **Email:** support@quantumexplorers.com
-- **Join Our Discord:** [Coming Soon]
-- **GitHub Issues:** Report bugs or suggest features [here](https://github.com/yourusername/Quantum-Explorers/issues)
-
 Let’s revolutionize STEAM education together! 🚀
 
